@@ -1,0 +1,13 @@
+script-info
+data-import
+pre-plots
+dose-response-data-points-obtained-from-titration-data
+sensor-loads
+background-binding-of-ntf2-to-sensor-surface
+sensor-immobilization-levels
+sensor-stability
+hill-fit-to-pseudo-equilibrium-data
+mutant-control-data
+assembles-figures
+main-figure
+supplement-figure

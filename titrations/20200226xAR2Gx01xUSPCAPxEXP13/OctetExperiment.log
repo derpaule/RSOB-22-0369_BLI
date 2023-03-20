@@ -1,0 +1,166 @@
+2020/03/06 02:37:57	Instrument is busy
+2020/03/06 02:37:58	Instrument is finished
+2020/03/06 02:37:58	Ready
+2020/03/06 02:37:59	Experiment started
+2020/03/06 02:37:59	Starting new step
+2020/03/06 02:37:59	Plate 1 temperature = 25 C
+2020/03/06 02:37:59	Waiting to pick up sensor location A1
+2020/03/06 02:37:59	Picking sensors location A1
+2020/03/06 02:38:08	Checking sensors location A1
+2020/03/06 02:38:09	Sensor 1: Integration Time = 1.5 ms
+2020/03/06 02:38:09	Sensor 2: Integration Time = 2.1 ms
+2020/03/06 02:38:09	Sensor 3: Integration Time = 2.7 ms
+2020/03/06 02:38:09	Sensor 4: Integration Time = 2.1 ms
+2020/03/06 02:38:09	Sensor 5: Integration Time = 2.3 ms
+2020/03/06 02:38:09	Sensor 6: Integration Time = 2.1 ms
+2020/03/06 02:38:09	Sensor 7: Integration Time = 2.1 ms
+2020/03/06 02:38:09	Sensor 8: Integration Time = 1.5 ms
+2020/03/06 02:38:16	Picking sensors completed location A1
+2020/03/06 02:38:16	Plate 1 temperature = 25 C
+2020/03/06 02:38:16	Ready to move to sample location A1
+2020/03/06 02:38:16	Moving to sample location A1
+2020/03/06 02:38:21	Arrived at sample location A1
+2020/03/06 02:38:21	Waiting to start sample location A1
+2020/03/06 02:38:21	Processing sample location A1
+2020/03/06 02:39:20	Sample completed location A1
+2020/03/06 02:39:21	Waiting to start new step
+2020/03/06 02:39:21	Starting new step
+2020/03/06 02:39:21	Ready to move to sample location A11
+2020/03/06 02:39:21	Moving to sample location A11
+2020/03/06 02:39:30	Arrived at sample location A11
+2020/03/06 02:39:30	Waiting to start sample location A11
+2020/03/06 02:39:30	Processing sample location A11
+2020/03/06 02:39:34	Sample completed location A11
+2020/03/06 02:39:35	Waiting to start new step
+2020/03/06 02:39:35	Starting new step
+2020/03/06 02:39:35	Ready to move to sample location A12
+2020/03/06 02:39:35	Moving to sample location A12
+2020/03/06 02:39:45	Arrived at sample location A12
+2020/03/06 02:39:45	Waiting to start sample location A12
+2020/03/06 02:39:46	Processing sample location A12
+2020/03/06 02:39:50	Sample completed location A12
+2020/03/06 02:39:51	Waiting to start new step
+2020/03/06 02:39:51	Starting new step
+2020/03/06 02:39:51	Ready to move to sample location A11
+2020/03/06 02:39:52	Moving to sample location A11
+2020/03/06 02:40:01	Arrived at sample location A11
+2020/03/06 02:40:01	Waiting to start sample location A11
+2020/03/06 02:40:01	Processing sample location A11
+2020/03/06 02:40:06	Sample completed location A11
+2020/03/06 02:40:06	Waiting to start new step
+2020/03/06 02:40:07	Starting new step
+2020/03/06 02:40:07	Ready to move to sample location A12
+2020/03/06 02:40:07	Moving to sample location A12
+2020/03/06 02:40:17	Arrived at sample location A12
+2020/03/06 02:40:17	Waiting to start sample location A12
+2020/03/06 02:40:17	Processing sample location A12
+2020/03/06 02:40:22	Sample completed location A12
+2020/03/06 02:40:22	Waiting to start new step
+2020/03/06 02:40:22	Starting new step
+2020/03/06 02:40:23	Ready to move to sample location A11
+2020/03/06 02:40:23	Moving to sample location A11
+2020/03/06 02:40:33	Arrived at sample location A11
+2020/03/06 02:40:33	Waiting to start sample location A11
+2020/03/06 02:40:33	Processing sample location A11
+2020/03/06 02:40:38	Sample completed location A11
+2020/03/06 02:40:38	Waiting to start new step
+2020/03/06 02:40:38	Starting new step
+2020/03/06 02:40:39	Ready to move to sample location A12
+2020/03/06 02:40:39	Moving to sample location A12
+2020/03/06 02:40:49	Arrived at sample location A12
+2020/03/06 02:40:49	Waiting to start sample location A12
+2020/03/06 02:40:49	Processing sample location A12
+2020/03/06 02:40:53	Sample completed location A12
+2020/03/06 02:40:54	Waiting to start new step
+2020/03/06 02:40:54	Starting new step
+2020/03/06 02:40:54	Ready to move to sample location A1
+2020/03/06 02:40:54	Moving to sample location A1
+2020/03/06 02:41:03	Arrived at sample location A1
+2020/03/06 02:41:03	Waiting to start sample location A1
+2020/03/06 02:41:03	Processing sample location A1
+2020/03/06 02:46:03	Sample completed location A1
+2020/03/06 02:46:03	Waiting to start new step
+2020/03/06 02:46:04	Starting new step
+2020/03/06 02:46:04	Ready to move to sample location A8
+2020/03/06 02:46:04	Moving to sample location A8
+2020/03/06 02:46:11	Arrived at sample location A8
+2020/03/06 02:46:11	Waiting to start sample location A8
+2020/03/06 02:46:11	Processing sample location A8
+2020/03/06 02:51:11	Sample completed location A8
+2020/03/06 02:51:11	Waiting to start new step
+2020/03/06 02:51:11	Starting new step
+2020/03/06 02:51:11	Ready to move to sample location A9
+2020/03/06 02:51:11	Moving to sample location A9
+2020/03/06 02:51:20	Arrived at sample location A9
+2020/03/06 02:51:20	Waiting to start sample location A9
+2020/03/06 02:51:20	Processing sample location A9
+2020/03/06 03:11:19	Sample completed location A9
+2020/03/06 03:11:20	Waiting to start new step
+2020/03/06 03:11:20	Starting new step
+2020/03/06 03:11:21	Ready to move to sample location A10
+2020/03/06 03:11:21	Moving to sample location A10
+2020/03/06 03:11:29	Arrived at sample location A10
+2020/03/06 03:11:29	Waiting to start sample location A10
+2020/03/06 03:11:30	Processing sample location A10
+2020/03/06 03:26:29	Sample completed location A10
+2020/03/06 03:26:30	Waiting to start new step
+2020/03/06 03:26:30	Starting new step
+2020/03/06 03:26:30	Ready to move to sample location A11
+2020/03/06 03:26:30	Moving to sample location A11
+2020/03/06 03:26:40	Arrived at sample location A11
+2020/03/06 03:26:40	Waiting to start sample location A11
+2020/03/06 03:26:40	Processing sample location A11
+2020/03/06 03:26:45	Sample completed location A11
+2020/03/06 03:26:45	Waiting to start new step
+2020/03/06 03:26:45	Starting new step
+2020/03/06 03:26:46	Ready to move to sample location A12
+2020/03/06 03:26:46	Moving to sample location A12
+2020/03/06 03:26:56	Arrived at sample location A12
+2020/03/06 03:26:56	Waiting to start sample location A12
+2020/03/06 03:26:56	Processing sample location A12
+2020/03/06 03:27:01	Sample completed location A12
+2020/03/06 03:27:01	Waiting to start new step
+2020/03/06 03:27:01	Starting new step
+2020/03/06 03:27:01	Ready to move to sample location A11
+2020/03/06 03:27:02	Moving to sample location A11
+2020/03/06 03:27:12	Arrived at sample location A11
+2020/03/06 03:27:12	Waiting to start sample location A11
+2020/03/06 03:27:12	Processing sample location A11
+2020/03/06 03:27:16	Sample completed location A11
+2020/03/06 03:27:17	Waiting to start new step
+2020/03/06 03:27:17	Starting new step
+2020/03/06 03:27:17	Ready to move to sample location A12
+2020/03/06 03:27:17	Moving to sample location A12
+2020/03/06 03:27:27	Arrived at sample location A12
+2020/03/06 03:27:28	Waiting to start sample location A12
+2020/03/06 03:27:28	Processing sample location A12
+2020/03/06 03:27:32	Sample completed location A12
+2020/03/06 03:27:32	Waiting to start new step
+2020/03/06 03:27:33	Starting new step
+2020/03/06 03:27:33	Ready to move to sample location A11
+2020/03/06 03:27:33	Moving to sample location A11
+2020/03/06 03:27:43	Arrived at sample location A11
+2020/03/06 03:27:43	Waiting to start sample location A11
+2020/03/06 03:27:43	Processing sample location A11
+2020/03/06 03:27:48	Sample completed location A11
+2020/03/06 03:27:48	Waiting to start new step
+2020/03/06 03:27:49	Starting new step
+2020/03/06 03:27:49	Ready to move to sample location A12
+2020/03/06 03:27:49	Moving to sample location A12
+2020/03/06 03:27:59	Arrived at sample location A12
+2020/03/06 03:27:59	Waiting to start sample location A12
+2020/03/06 03:27:59	Processing sample location A12
+2020/03/06 03:28:04	Sample completed location A12
+2020/03/06 03:28:04	Waiting to start new step
+2020/03/06 03:28:04	Starting new step
+2020/03/06 03:28:05	Ready to move to sample location A1
+2020/03/06 03:28:05	Moving to sample location A1
+2020/03/06 03:28:13	Arrived at sample location A1
+2020/03/06 03:28:14	Waiting to start sample location A1
+2020/03/06 03:28:14	Processing sample location A1
+2020/03/06 03:29:17	Assay step skipped
+2020/03/06 03:29:17	Waiting for ejection start location A1
+2020/03/06 03:29:17	Ejecting sensor location A1
+2020/03/06 03:29:43	Ejecting completed location A1
+2020/03/06 03:29:43	Experiment finished
+2020/03/06 03:29:43	Ready
